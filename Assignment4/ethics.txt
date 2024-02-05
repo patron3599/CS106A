@@ -1,0 +1,16 @@
+Christopher Patron 
+CS 106A - Assignment 4: Ethics Question Responses 
+05/05/2022
+
+A. 
+	One idealization that was made in this assignment was that there is no external environment, mainly wind. If this was the case,
+there would then be sand pixels being swept away. The main component that we represented computationally was the Brownian motion, this 
+allowed for a more true and fluid behavior of the sand as it setteled. Another assumption we made is that all the sand and rocks were the 
+same size which made the compuations muxh easier. However, we should recognize that this is not the case and they can obviously be different
+sizes.
+
+B.
+	One thing computer sceintists should consider when making these simulations is to remember that the program is a simulation and 
+therefore  should not expect an exact representation of the real-word situation. To communicate these assumptions, the programmer should 
+provide a disclaimer which highlights the limitations of the program. This allows for some transparency for the user and then enables the user
+to use their best judgement when analyzing the results of the simulation. 
