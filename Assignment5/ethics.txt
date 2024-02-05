@@ -1,0 +1,10 @@
+Christopher Patron 
+CS 106A - Assignment 5: Ethics Question Responses 
+05/13/2022
+
+1. 
+	My response would be to give me a chance to try and input the algorithm with Unicode. Since ASCII is very limited and 
+Unicode is much more expansive, there are alot of benefits to using it; Especially if it would be handling sensitive information.
+If we were to build a system using purely ASCII code, the representational harm is that the informaton
+being inputted could be passed as Unicode and if it is not properly filtered or converted, there could 
+be some major issues in how the system runs in terms of interpreting the data.  
