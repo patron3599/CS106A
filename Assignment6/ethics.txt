@@ -1,0 +1,43 @@
+Christopher Patron 
+CS 106A - Assignment 6: Ethics Question Responses 
+05/23/2022
+
+1.
+	In plotting some neutral words and then loaded words, I can clearly see the differences and importance
+of being able to recognize these words. When plotting neutral words such as 'the' or 'class,' I see that for the 
+most part, the frequency of the word applied to each gender is the same. However, when I use a more loaded word like
+'smart' or 'funny,' I see a much larger discrepancy in the application of the word to each gender. Moreover, I notice that 
+in general the male bar will more than likely always be higher.
+
+2.
+	I would say that to an extent there is some bias when looking at the results of the high ratings. When we then 
+plot some of the words from the first question, such as 'funny,' we do see this bias come to fruition. When plotting this 
+specific word, we get a value for male that is almost two-fold that of the value of female.
+
+3. 
+	I think this program I created is a very powerful tool. However, I don't believe it should solely determine the fate
+of a faculty member. I think this because this program shows you the frequency of the word, but not the context in which it is used
+and therefore can mislead an instituion to make an erroneous decision. I believe that an institution can use this as a starting point 
+or as additional information, but should always take the results with a grain of salt because as the question mentions, depending on 
+when the review is created, a student's thoughts on a faculty member can change very quickly over the course of the school year.
+
+4. 
+	The kind of information that the subjects represented in this dataset deserve to know about the trends in the data is 
+in what context the word is being used, what is the gender of the person who wrote the review, and the assumptions that were 
+made in creating this program. To provide this information as the programmer, more thought would have to be taken when developing 
+these functions and devise ways to transparently return the results.
+
+5. 
+	As I have mentioned in my previous responses, I beleive that extending this program to also display the context in which 
+the word is used will greatly mitigate the issue of underrepresentation and long tails in data science. In order to combat this, 
+I believe that an extension has to be developed in order to capture those "outliers" that would get lost in the assumptions that 
+we make when creating this program.
+
+6. 
+	I think the way I would approach this issue is by getting rid of the gender rating in general and just using the professor's
+name, the name of the university they teach at, the department they are in, and the classes they teach. This way, I think a more accurate 
+picture of their teaching stlye can be displayed without integrating gender into the equation. 
+
+7.
+	Another example could be the evaluation of a professor and the grades they give. We could study the distribution of grades they give 
+to student's based on class and gender and then be able to analyze their behavior as a function of the grades that they are distributing.
