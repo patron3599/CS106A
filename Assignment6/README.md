@@ -1,0 +1,1 @@
+Assignment 6 - Reading a data file to create an interactive program where the user is able to search a word and the frequency that word is used to rate a male or female professor. It is then displayed graphically using a bar chart 
