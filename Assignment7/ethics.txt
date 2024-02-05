@@ -1,0 +1,18 @@
+Christopher Patron 
+CS 106A - Assignment 7: Ethics Question Responses 
+05/24/2022
+
+1. 
+	I believe that advertisers paying search companies to boost their merchandise is a major 
+ethical issue because the search results that users would be recieving would be completely biased.
+The in which this could be handeled at a higher level is to simply ignore advertisers and not focus 
+on monetary gain. However, this is never the case and even  Brin and Page went against their own words
+and now are surely pushing a monetary agenda in terms of the serach results they are producing.
+
+2.
+	Like most of the other programs that we have created, bajillion is a powerful tool and as we
+pass more data into it, we can see how many issues with bias could arise. One way the program could be 
+extended is to provide a ranking function (similar to Google) today, where you present the articles in 
+a ranked fashion. Or, you could also include some kind of frequency function where you also return to the 
+user the number of times that the query was used in the article. At the end of the day, I believe the most
+important goal of a search engine is to be transparent and provide authentic results. 
