@@ -1,0 +1,30 @@
+Christopher Patron 
+CS 106A: Ethics Question Responses 
+04/22/2022
+
+Forest Fire Assignment: 
+A. 
+	I believe that the programmer has alot of responsibility as the creator of a tool like this program.
+I can relate to this because I am a structural engineer and have to use design software all the time. When I 
+am using this software, it is my responsibility to know the "in's and out's" of the software and have the capacity 
+to understand what it is the output of the design is and if it makes sense. Similar to this, a programmer who is 
+developing a program like this should be well-versed in what the program is capable of.
+
+B. 
+	The information that should be conveyed is similar to what the program is already ouputting. That is, the 
+original image and the altered image. That way, the user is able to see exactly how the original image was altered.
+If the original image was to not be returned, the context of the program's use would change significantly and essentially 
+the user would be putting alot more trust in the programmer and the program, which may not always be the best thing to do.
+
+Ghost Code Assignment:
+A. 
+	I believe that the implementation of this code is innumerable. That is, it can be used in many basic contexts. 
+The simplest example can be someone taking a nice picture in a crowded area, but wanting to have a picture of just background.
+However, its use can also be used more negatively in altering the picture in a way to manipulate someone or a group of people. 
+For example, you could take a picture of a crowd of people in line and remove them from the image and use this information 
+to manipulate people into thinking that there is an empty line when in reality the line is full and would attract more people,
+making the line even longer.
+
+B. 
+	I believe that my second example clearly involves manipulation because you are deceiving people who see the image with 
+the "empty line" and having them think that the line is empty, when it really is not. 
